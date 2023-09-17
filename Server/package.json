@@ -5,9 +5,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "start": "node server",
-    "dev": "node server",
-    "build": "node server"
+    "start": "node server"
   },
   "keywords": [],
   "author": "",
