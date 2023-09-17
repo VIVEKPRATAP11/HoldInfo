@@ -6,14 +6,14 @@
   "type": "module",
   "scripts": {
     "start": "nodemon server",
-    "dev": "node server.js",
-    "build": "node server.js"
+    "dev": "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.5.0",
+    "build": "^0.1.4",
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
